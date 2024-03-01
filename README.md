@@ -11,7 +11,6 @@ This Jupyter Notebook contains a gold price prediction model using historical da
 3. Follow the instructions in the notebook to analyze the data and run the gold price predictions.
    
 # Data: 
-
 The data used for this project is stored in the accompanying CSV file. It contains gold price information, which the model uses for predictions.
 
 # Contributions:
