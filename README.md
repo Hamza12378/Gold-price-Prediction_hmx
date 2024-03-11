@@ -1,4 +1,4 @@
-# Gold-price_Prediction_hmx
+# Gold_price_Prediction_hmx
 
 **Overview:**
 
