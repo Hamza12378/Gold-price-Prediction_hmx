@@ -1,6 +1,6 @@
 # Gold_price_Prediction_hmx
 
-**Overview:**
+**Overview:** 
 
 This Jupyter Notebook contains a gold price prediction model using historical data from a CSV file. The model is built in Python and can predict future gold prices based on past trends.
 
